@@ -4,6 +4,10 @@ A compact ToDo list device using **ESP32 + TFT LCD** that integrates with **Goog
 
 The ESP32 fetches tasks from a specific Google Tasklist and displays them on the screen. You can also mark a task as completed using physical buttons.
 
+## Working project image demo:
+
+![Working Project Demo](readme_images/project_demo.jpeg)
+
 ## Features
 
 - Show tasks from a specific Google Tasklist on a TFT screen.
